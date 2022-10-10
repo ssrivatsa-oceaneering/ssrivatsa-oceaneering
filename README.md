@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me 👋
+Sr. Robotics Software engineer in the NPD group based out of Houston.
+
+Launguages I speak include English, Kannada, Python and C\C++.
 
 <!--
 **ssrivatsa-oceaneering/ssrivatsa-oceaneering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
