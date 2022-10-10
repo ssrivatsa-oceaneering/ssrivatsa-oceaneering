@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![Sidd's github stats](https://github-readme-stats.vercel.app/api?username=ssrivatsa-oceaneering&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Sidd's github stats](https://github-readme-stats.vercel.app/api?username=ssrivatsa-oceaneering&count_private=true&show_icons=true&theme=radical)
