@@ -1,5 +1,5 @@
 ### About me 👋
-Sr. Robotics Software engineer in the NPD group based out of Houston.
+Sr. Robotics Software engineer in the New Product Developement Group. Currently located in Baltimore, MD, USA.
 
 Launguages I speak include English, Kannada, Python and C\C++.
 
