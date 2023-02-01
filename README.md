@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![Sidd's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=ssrivatsa-oceaneering&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Sidd's github stats](https://github-readme-stats.vercel.app/api?username=ssrivatsa-oceaneering&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
